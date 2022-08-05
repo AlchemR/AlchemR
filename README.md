@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00A3F7&center=true&vCenter=true&multiline=true&width=840&height=150&lines=Welcome+to+Peter+Romo's+Github;Full+Stack+Software+Developer;Check+out+my+Projects+below!;Let's+connect)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00A3F7&center=true&vCenter=true&multiline=true&width=840&height=150&lines=Welcome+to+Peter+Romo's+Github;Full+Stack+Software+Developer;Check+out+my+Projects+below!;Let's+connect)
 
 <br>
 <br>
